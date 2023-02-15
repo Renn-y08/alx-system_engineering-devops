@@ -1,5 +1,3 @@
 #!/bin/bash
-ls -l
-$ wc -l file
-ls -aln --hide=.*
+ls -l $ wc -l file ls -aln --hide=.*
 
